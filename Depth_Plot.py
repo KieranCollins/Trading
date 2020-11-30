@@ -19,14 +19,6 @@ plt.title("BTC-USD Orders Book")
 print(bids)
 
 
-#print(sorted top five largest bid and ask jumps)
-
-y = bids[:,1]
-x = bids[:,0]
-
-y1 = asks[:,1]
-x1 = asks[:,0]
-
 
 
 
