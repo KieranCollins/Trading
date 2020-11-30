@@ -90,12 +90,6 @@ print("sell",int(df['avg'][range_time-1]),money*int(df['avg'][range_time-1])*0.9
                 
     
     
-"""
-df = df[(df != 0).all(1)]
-df = df.set_index("Date")
-print(df.to_string())
-mpf.plot(df,type='candle')
-"""
 
 
 
