@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 from binance.client import Client
 
-api_key = 'kgpWFYsympqmVjSPHMuHj0nXcgOGsCpMvPNm99i3N0JxyeaxhYBqjBvOcUHCdnHt'
-api_secret = 'B2TbctQvmTKkbG57Q43wI4cl2UzSZoEXKvqthdSrBShEcyE5CPuQUkN22KhFLSQJ'
+api_key = ''
+api_secret = ''
 
 client = Client(api_key, api_secret)
 
